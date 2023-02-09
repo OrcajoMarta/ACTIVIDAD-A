@@ -19,6 +19,8 @@ public class HolaMundo {
         System.out.println(" son las 9.35");
         System.out.println("lo modifico ooootra vez");
         System.out.println("rama 24");
+        System.out.println(" cambio 1 en rama master");
+        System.out.println("cambio 2 en rama master");
     }
     
 }
