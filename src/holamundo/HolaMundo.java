@@ -22,6 +22,8 @@ public class HolaMundo {
         System.out.println(" cambio 1 en rama master");
         System.out.println("cambio 2 en rama master");
         System.out.println("segundo intento");
+        System.out.println("cambio 1");
+        System.out.println("cambio 2");
     }
     
 }
